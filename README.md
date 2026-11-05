@@ -47,7 +47,7 @@ The application includes an admin section to manage products, categories, and cu
 
 - `images/` – Website images and product images.
 - `uploaded_img/` – Uploaded product images.
-- `config.php` – Database connection.
+- `config.example.php` – Sample database configuration file.
 - `index.php` – Homepage.
 - `category.php` – Product categories.
 - `cart.php` – Shopping cart.
@@ -58,14 +58,15 @@ The application includes an admin section to manage products, categories, and cu
 
 1. Install XAMPP on your computer.
 2. Copy the project folder into the `htdocs` directory.
-3. Start Apache and MySQL from XAMPP Control Panel.
-4. Open phpMyAdmin.
+3. Start Apache and MySQL from the XAMPP Control Panel.
+4. Open phpMyAdmin in your browser.
 5. Create the required database and import the project SQL file.
-6. Update the database connection details in `config.php`.
-7. Open your browser and visit:
+6. Copy or rename `config.example.php` to `config.php`.
+7. Update the database name, username, and password in `config.php`.
+8. Open your browser and visit:
 
    `http://localhost/procoffee/`
-
+   
 ## 🎓 Learning Outcomes
 
 - Gained practical knowledge of frontend and backend development.
