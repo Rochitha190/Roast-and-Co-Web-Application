@@ -61,7 +61,7 @@ The application includes an admin section to manage products, categories, and cu
 3. Start Apache and MySQL from the XAMPP Control Panel.
 4. Open phpMyAdmin in your browser.
 5. Create the required database and import the project SQL file.
-6. Copy or rename `config.example.php` to `config.php`.
+6. Copy `config.example.php` and rename the copy to `config.php`.
 7. Update the database name, username, and password in `config.php`.
 8. Open your browser and visit:
 
