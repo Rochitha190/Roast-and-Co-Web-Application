@@ -1,0 +1,17 @@
+# Database files
+*.sql
+
+# Environment and private files
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+ # Database configuration
+config.php
+
+# Personal photographs - keep private
+/uploaded_img/rochitha.jpeg
+/uploaded_img/yathi.jpeg
