@@ -1,5 +1,6 @@
 # Database files
 *.sql
+!database/shop_db.sql
 
 # Environment and private files
 .env
