@@ -43,6 +43,26 @@ The application includes an admin section to manage products, categories, and cu
 - View and manage customer orders.
 - Manage customer information.
 
+## 📸 Website Screenshots
+
+### 1. Home Page
+![Home Page](screenshots/Home%20page.png)
+
+### 2. Login Page
+![Login Page](screenshots/Login%20page.png)
+
+### 3. Registration Page
+![Register Page](screenshots/Register%20page.png)
+
+### 4. Products Page
+![Products Page](screenshots/Products%20page.png)
+
+### 5. Shopping Cart
+![Shopping Cart](screenshots/Shopping%20cart%20page.png)
+
+### 6. Admin Dashboard
+![Admin Page](screenshots/Admin%20page.png)
+
 ## 📂 Project Structure
 
 - `images/` – Website images and product images.
