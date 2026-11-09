@@ -1,4 +1,10 @@
-# ☕ Roast & Co. – Coffee Shop Web Application
+## ☕ Roast & Co. – Coffee Shop Web Application
+
+🌐 Live Website: "Visit Roast & Co." (https://procoffee.infinityfreeapp.com)
+
+📂 GitHub Repository: "View Source Code" (https://github.com/Rochitha190)
+
+---
 
 ## 📌 Project Overview
 Roast & Co. is a fully functional coffee shop e-commerce web application developed to provide customers with a simple and user-friendly online shopping experience. Users can explore different coffee categories, browse products, add items to their cart, and place orders.
